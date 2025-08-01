@@ -1,1 +1,2 @@
 Hello Git
+doin some changes in an new branch after switching
